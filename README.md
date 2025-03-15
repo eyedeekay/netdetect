@@ -30,7 +30,6 @@ A Go package for detecting VPN, mesh, and overlay network interfaces. Currently 
     - CJDNS (fc00::/8)
 - Simple API for interface detection
 - Zero external dependencies
-- Comprehensive test coverage
 
 ## Installation
 
